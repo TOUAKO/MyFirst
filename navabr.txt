@@ -1,0 +1,30 @@
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark-blue">
+            <div class="container-fluid">
+              
+             
+              <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                  
+                  <li class="nav-item dropdown">
+                    <a class="nav-link active dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                      Accessoires(Femme/Homme)
+                    </a>
+                    <ul class="dropdown-menu" aria-labelledby="navbarDropdown blanc" style="background-color: rgb(30, 102, 185);">
+                      <li><a class="dropdown-item" href="accessoire_femme _navbar.html"><p>Accessoires Femme</p></a></li>
+                      <li><hr class="dropdown-divider"></li>
+                      <li><a class="dropdown-item" href="accessoire_homme _navbar.html">Accessoires Homme</a></li>
+                      <li><hr class="dropdown-divider"></li>
+                      
+                    </ul>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link active" aria-current="page" href="accessoire_bricolage_navbar.html">&nbsp;&nbsp;&nbsp;&nbsp;Bricolage&nbsp;&nbsp;&nbsp;&nbsp;</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link active"  href="accessoire_auto_navbar.html">Accesoires(Auto)</a>
+                  </li>
+                </ul>
+                
+              </div>
+            </div>
+          </nav>

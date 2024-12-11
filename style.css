@@ -1,0 +1,31 @@
+
+.bg-dark-blue {
+    background-color: #050545; /* Dark blue color */
+}
+.blanc {
+    color: white; /* Dark blue color */
+}
+.text_image{
+    color: rgb(41, 115, 160); font-style: italic; font-weight: bold;
+}
+.bordureRouge{ border: 1px solid red; padding: 10px; }
+.bordureVerte{ border: 1px solid green; padding: 10px; }
+.bordureBleue{ border: 2px solid rgb(4, 51, 79); padding: 10px;
+    margin-bottom: 20px; margin-right: 20px;
+             }
+
+
+.bordureJaune{ border: 3px solid yellow; padding: 10px; }
+.bordureOrange{ border: 3px solid orange; padding: 10px; }
+.header-1, .header-2, .header-3{ display:inline-block; }
+.section-1, .section-2, .section-3{ min-height: 400px; }
+.parent-div {
+    position: relative;
+}
+
+.formulaire {
+    position: absolute;
+    top: 50%;
+    left: 10%;
+    transform: translate(-10%, -50%);
+}
